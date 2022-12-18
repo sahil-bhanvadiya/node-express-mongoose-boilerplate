@@ -1,4 +1,4 @@
-# Express ES2017 REST API Boilerplate
+# Node-Express-Mongoose ES2017 REST API Boilerplate
 Boilerplate/Generator/Starter Project for building RESTful APIs and microservices using Node.js, Express and MongoDB
 
 ## Features
